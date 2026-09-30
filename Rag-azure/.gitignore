@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Secrets (contains API keys) - commit appsettings.example.json instead
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+
+# Usage logs (contain questions/answers)
+usage-log.jsonl
+logs/
+
+# OS
+Thumbs.db
+.DS_Store

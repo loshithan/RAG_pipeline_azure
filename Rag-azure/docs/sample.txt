@@ -1,0 +1,13 @@
+Contoso Coffee Employee Handbook (sample)
+
+Working hours: Standard working hours at Contoso Coffee are 9:00 AM to 5:30 PM, Monday to Friday. Employees get a 60 minute unpaid lunch break. Flexible start times between 8:00 AM and 10:00 AM are allowed with manager approval.
+
+Leave policy: Full-time employees receive 20 days of paid annual leave per calendar year. Unused leave up to 5 days can be carried over to the next year. Sick leave is 10 days per year, and a medical certificate is required for absences longer than 2 consecutive days.
+
+Remote work: Employees may work remotely up to 3 days per week. Remote work requests must be submitted through the HR portal at least one week in advance. Employees must be reachable on Teams during core hours from 10:00 AM to 4:00 PM.
+
+Expense claims: Business travel expenses must be submitted within 30 days of the trip. Meals are reimbursed up to 40 dollars per day. Flights must be booked in economy class through the company travel portal. Receipts are required for any expense above 25 dollars.
+
+Equipment: New employees receive a laptop, a monitor, and a headset. Lost or damaged equipment must be reported to IT support within 24 hours. Equipment must be returned to IT on the last working day.
+
+Learning budget: Each employee has an annual learning budget of 1,000 dollars for courses, books, and conferences. Purchases above 500 dollars need prior approval from the manager.
